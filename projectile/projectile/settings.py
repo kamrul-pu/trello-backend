@@ -22,7 +22,7 @@ SECRET_KEY = "django-insecure-(_k0c3i)(xs)$#$lfl%$0!@d_7%criqd+-lv3r)36m)&67)^47
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
-ENABLE_SILK = False
+ENABLE_SILK = True
 ALLOWED_HOSTS = []
 
 
